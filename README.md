@@ -36,20 +36,4 @@ If you want to view the code and run it via Python:
     bash
     python connect_four_game.py
 
-Team Members
-
-This project was collaboratively developed by:
-
-Beshoy Magdy Abdelsayed (20220119)
-
-Khaled Abdel Azim Mattar (20220143)
-
-Beshoy Adel Ezzat (20220118)
-
-Beshoy Milad Makram (20220121)
-
-Mirna Nageh Botros (20220521)
-
-Clara Alber Helmy (20220350)
-
 Developed at Helwan University - Faculty of Computers and Artificial Intelligence
